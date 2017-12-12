@@ -1,6 +1,11 @@
 # Docker Task
 
-A Dockerfile with necessary files to build a Docker Image (Container later on) with python3, postgresql, elasticsearch & java8
+A Dockerfile with necessary files to build a Docker Image with:
+* python3 
+* postgresql
+* elasticsearch 
+* java8
+* some common packages
 
 ### Prerequisites
 [Docker](https://docker.com)
