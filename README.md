@@ -14,8 +14,8 @@ A Dockerfile with necessary files to build a Docker Image with:
 
 
 ```
-git clone https://github.com/AntonioErdeljac/Docker-Test.git
-cd Docker-Test/
+git clone https://github.com/AntonioErdeljac/Docker-Task.git
+cd Docker-Task/
 docker build -t docker_image .
 ```
 
